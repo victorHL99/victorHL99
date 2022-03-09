@@ -5,7 +5,7 @@
 
 ### Falaaa Turma, Tudo Certo? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-*Meu nome é Victor (mas podem me chamar de Cuz-Cuz), faço estudante de Engenharia de controle e automação na UFLA (Universidade Federal de Lavras) e atualmente estudante de **Desenvolvimento Full Stack**  na @driven education.* 
+*Meu nome é Victor (mas podem me chamar de Cuz-Cuz), faço estudante de Engenharia de controle e automação na UFLA (Universidade Federal de Lavras) e atualmente estudante de **Desenvolvimento Web Full Stack**  na @driven education.* 
 <br>
 
 <div>
