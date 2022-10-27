@@ -4,7 +4,12 @@
 
 ### Falaaa Turma, Tudo Certo? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-*Meu nome é Victor (mas podem me chamar de Cuz-Cuz), faço estudante de Engenharia de controle e automação na UFLA (Universidade Federal de Lavras) e atualmente estudante de **Desenvolvimento Web Full Stack**  na @driven education.* 
+*Meu nome é Victor (Cuz-Cuz para os íntimos), um apaixonado por tecnologia e como essas mudanças podem impactar na vida das pessoas. Atualmente trabalho como Desenvolvedor Web FullStack e também faço engenharia de controle e automação na Universidade federal de Lavras.*
+
+Algumas fatos engraçados/curiosidades:
+- *Moro em uma República de 30 anos* :wolf:
+- *Só descobri o mundo da programação porque entrei em turma errada no primeiro dia da faculdade* :sweat_smile:
+- *Amo um joguinho de sinuca :laughing:*
 <br>
 
 <div>
@@ -12,6 +17,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorHL99&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="160px", width="400px" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorHL99&layout=compact&langs_count=7&theme=dark" height="160px", width="400px" />
 </div>
+
+ ### 📧 Meus contatos
+  
+  <div>
+    <a href="https://www.linkedin.com/in/victorhl99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:victorlessa.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div> 
+
+
  
    ### ⚒️ Minha stack
 -   _**Linguagens**_
