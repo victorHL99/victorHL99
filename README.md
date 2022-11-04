@@ -1,5 +1,5 @@
 ![profile count](https://komarev.com/ghpvc/?username=victorHL99&color=blueviolet&style=plastic)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-hugo-santos-da-cruz-lessa-20b696195/)](https://www.linkedin.com/in/victor-hugo-santos-da-cruz-lessa-20b696195/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-hugo-santos-da-cruz-lessa-20b696195/)](https://www.linkedin.com/in/victorhl99/)
 [![wakatime](https://wakatime.com/badge/user/52a70b47-9c7d-4db2-a2be-e80fbd744b6b.svg)](https://wakatime.com/@52a70b47-9c7d-4db2-a2be-e80fbd744b6b)
 
 ### Falaaa Turma, Tudo Certo? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
