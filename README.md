@@ -4,7 +4,7 @@
 
 ### Falaaa Turma, Tudo Certo? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-*Meu nome é Victor (Cuz-Cuz para os íntimos), um apaixonado por tecnologia e como essas mudanças podem impactar na vida das pessoas. Atualmente trabalho como Desenvolvedor Web FullStack e também faço engenharia de controle e automação na Universidade federal de Lavras.*
+*Meu nome é Victor, um apaixonado por tecnologia e como essas mudanças podem impactar na vida das pessoas. Atualmente trabalho como Desenvolvedor Web FullStack e também faço engenharia de controle e automação na Universidade federal de Lavras.*
 
 Algumas fatos engraçados/curiosidades:
 - *Moro em uma República de 30 anos* :wolf:
