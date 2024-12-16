@@ -6,10 +6,7 @@
 
 *Meu nome é Victor, um apaixonado por tecnologia e como essas mudanças podem impactar na vida das pessoas. Atualmente trabalho como Desenvolvedor Web FullStack e também faço engenharia de controle e automação na Universidade federal de Lavras.*
 
-Algumas fatos engraçados/curiosidades:
-- *Moro em uma República de 30 anos* :wolf:
-- *Só descobri o mundo da programação porque entrei em turma errada no primeiro dia da faculdade* :sweat_smile:
-- *Amo um joguinho de sinuca :laughing:*
+
 <br>
 
 <div>
